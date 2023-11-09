@@ -11,4 +11,4 @@ services:
       MYSQL_USER: usuario
       MYSQL_PASSWORD: secreto
     ports:
-      - 3307:3307
+      - "3308:3306"
